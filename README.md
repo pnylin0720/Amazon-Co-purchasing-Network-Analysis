@@ -12,7 +12,7 @@ This project analyzes the **Amazon Product Co-purchasing Network** dataset to un
 - Analyzing friend-of-friend relationships within detected communities
 
 A detailed report is provided in the PDF file:
-> **[Amazon Co-purchasing network analysis Report.pdf]**
+> [**Amazon Co-purchasing network analysis Report.pdf**](https://github.com/pnylin0720/Amazon-Co-purchasing-Network-Analysis/blob/main/Amazon%20Co-purchasing%20network%20analysis%20Report.pdf)
 
 
 ##  Features
